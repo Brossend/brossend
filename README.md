@@ -67,7 +67,7 @@ I enjoy solving complex technical problems and improving development processes.
 ### State Management
 
 <p>
-<img src="https://skillicons.dev/icons?i=redux,pinia,zustand,mobx,vuex" />
+<img src="https://skillicons.dev/icons?i=redux,pinia" />
 </p>
 
 Vuex • Zustand • MobX
@@ -87,10 +87,10 @@ REST API • WebSocket
 ### Mobile
 
 <p>
-<img src="https://skillicons.dev/icons?i=kotlin,jetpack-compose,retrofit,room,hilt,clean-architecture" />
+<img src="https://skillicons.dev/icons?i=kotlin" />
 </p>
 
-Kotlin • Jetpack Compose  
+Jetpack Compose  
 Clean Architecture • Retrofit • Room • Hilt
 
 ---
@@ -98,10 +98,10 @@ Clean Architecture • Retrofit • Room • Hilt
 ### Additional Experience
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,vite,docker,pwa,webview,webpack,canvas" />
+<img src="https://skillicons.dev/icons?i=git,vite,docker,webpack" />
 </p>
 
-PWA • WebView • Telegram Mini Apps • Vite • Webpack  
+PWA • WebView • Telegram Mini Apps
 ApexCharts • Canvas • Maps API  
 Git Flow • Code Review • ESLint • Prettier
 

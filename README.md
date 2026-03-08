@@ -48,11 +48,11 @@ I enjoy solving complex technical problems and improving development processes.
 
 # 🧩 Outside of coding / Вне кода
 
-🏋️ gym / спортзал  
-✈️ travel / путешествия  
-🎮 games / игры
-🔫 airsoft / страйкбол
-🛠 model building / моделирование
+• 🏋️ gym / спортзал  
+• ✈️ travel / путешествия  
+• 🎮 games / игры
+• 🔫 airsoft / страйкбол
+• 🛠 model building / моделирование
 
 ---
 
@@ -61,16 +61,16 @@ I enjoy solving complex technical problems and improving development processes.
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,vue,nuxt,react,nextjs,html,css,sass,tailwind" />
+<img src="https://skillicons.dev/icons?i=ts,js,vue,nuxt,react,nextjs,html,css,sass,tailwind,figma" />
 </p>
 
 ### State Management
 
 <p>
-<img src="https://skillicons.dev/icons?i=redux" />
+<img src="https://skillicons.dev/icons?i=redux,pinia,zustand,mobx,vuex" />
 </p>
 
-Pinia • Vuex • Zustand • MobX
+Vuex • Zustand • MobX
 
 ---
 
@@ -80,7 +80,7 @@ Pinia • Vuex • Zustand • MobX
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,postgres" />
 </p>
 
-REST API • WebSocket • Business Logic
+REST API • WebSocket
 
 ---
 
@@ -97,8 +97,11 @@ Clean Architecture • Retrofit • Room • Hilt
 
 ### Additional Experience
 
-PWA • WebView • Telegram Mini Apps  
-Docker • Vite • Webpack  
+<p>
+<img src="https://skillicons.dev/icons?i=git,vite,docker" />
+</p>
+
+PWA • WebView • Telegram Mini Apps • Vite • Webpack  
 ApexCharts • Canvas • Maps API  
 Git Flow • Code Review • ESLint • Prettier
 

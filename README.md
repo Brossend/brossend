@@ -121,16 +121,6 @@ Git Flow • Code Review • ESLint • Prettier
 
 # 🧠 Currently exploring / Сейчас изучаю
 
-Machine Learning  
-Mobile architecture  
-Product engineering
-
----
-
-# 📫 Contact / Контакты
-
-📧 Email  
-y8056387@gmail.com
-
-💬 Telegram  
-https://t.me/brossend
+Machine Learning  / Машинное обучение
+Mobile architecture  / Архитектура мобильных приложений
+Product engineering  / Продуктовая разработка

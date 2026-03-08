@@ -35,11 +35,11 @@ while also working with **Laravel backend** and **native Android (Kotlin / Jetpa
 
 Worked on products in / Работал над продуктами:
 
-• FoodTech  
-• iGambling platforms  
-• Document management systems  
-• Financial systems  
-• Real estate ecosystem services
+- FoodTech  
+- iGambling platforms  
+- Document management systems  
+- Financial systems  
+- Real estate ecosystem services
 
 I enjoy solving complex technical problems and improving development processes.  
 Интересуюсь архитектурой приложений, сложными интерфейсами и оптимизацией процессов разработки.
@@ -48,11 +48,11 @@ I enjoy solving complex technical problems and improving development processes.
 
 # 🧩 Outside of coding / Вне кода
 
-• 🏋️ gym / спортзал  
-• ✈️ travel / путешествия  
-• 🎮 games / игры
-• 🔫 airsoft / страйкбол
-• 🛠 model building / моделирование
+- 🏋️ gym / спортзал  
+- ✈️ travel / путешествия  
+- 🎮 games / игры
+- 🔫 airsoft / страйкбол
+- 🛠 model building / моделирование
 
 ---
 
@@ -121,6 +121,6 @@ Git Flow • Code Review • ESLint • Prettier
 
 # 🧠 Currently exploring / Сейчас изучаю
 
-Machine Learning  / Машинное обучение
-Mobile architecture  / Архитектура мобильных приложений
-Product engineering  / Продуктовая разработка
+- Machine Learning  / Машинное обучение
+- Mobile architecture  / Архитектура мобильных приложений
+- Product engineering  / Продуктовая разработка

@@ -109,11 +109,7 @@ Git Flow • Code Review • ESLint • Prettier
 
 # 📊 GitHub Stats
 
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=bross&show_icons=true&theme=tokyonight" />
-
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brossend&theme=tokyo-night)
 
 ---
 

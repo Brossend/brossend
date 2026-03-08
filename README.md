@@ -77,7 +77,7 @@ Vuex • Zustand • MobX
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,postgres,rest,websocket" />
 </p>
 
 REST API • WebSocket
@@ -87,7 +87,7 @@ REST API • WebSocket
 ### Mobile
 
 <p>
-<img src="https://skillicons.dev/icons?i=kotlin" />
+<img src="https://skillicons.dev/icons?i=kotlin,jetpack-compose,retrofit,room,hilt,clean-architecture" />
 </p>
 
 Kotlin • Jetpack Compose  
@@ -98,7 +98,7 @@ Clean Architecture • Retrofit • Room • Hilt
 ### Additional Experience
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,vite,docker" />
+<img src="https://skillicons.dev/icons?i=git,vite,docker,pwa,webview,webpack,canvas" />
 </p>
 
 PWA • WebView • Telegram Mini Apps • Vite • Webpack  

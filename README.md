@@ -13,6 +13,13 @@ Frontend-focused Fullstack Engineer • Web / Mobile • Scalable products
 <img src="https://img.shields.io/badge/telegram-contact-blue?style=for-the-badge&logo=telegram">
 </a>
 
+<a href="https://career.habr.com/brossend" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Habr%20Career-profile-65A3BE?style=for-the-badge&logo=habr&logoColor=white"
+    alt="Habr Career"
+  />
+</a>
+
 <img src="https://komarev.com/ghpvc/?username=bross&style=for-the-badge&color=blue" />
 </p>
 

@@ -27,7 +27,7 @@ Frontend-focused Fullstack Engineer • Web / Mobile • Scalable products
 
 # 👨‍💻 About Me
 
-Fullstack engineer with **2.5+ years of commercial development experience**.
+Fullstack engineer with **3+ years of commercial development experience**.
 
 My main focus is **Frontend architecture** and complex client applications.
 
